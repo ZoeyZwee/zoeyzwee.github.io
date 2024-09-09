@@ -11,6 +11,6 @@ tags:
 - data
 ---
 
-Check out the result of the project! [link](https://zoey-wisd.streamlit.app/)
+Check out the result of the project [here](https://zoey-wisd.streamlit.app/)!
 
 ### Blog post/Write-up coming soon...
