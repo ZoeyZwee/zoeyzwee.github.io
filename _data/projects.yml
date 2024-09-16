@@ -1,4 +1,4 @@
 - name: Baseball Data Dashboard
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://github.com/ZoeyZwee/zoeyzwee.github.io/blob/master/assets/images/WISD.png?raw=True
   link: https://zoey-wisd.streamlit.app/
-  description: An interactive dashboard to explore batter tendencies, and find overall trends in the dataset. Created for the 2024 Women in Sports Data Hackathon.
+  description: Created for the 2024 WISD Hackathon
