@@ -2,3 +2,8 @@
   image: https://github.com/ZoeyZwee/zoeyzwee.github.io/blob/master/assets/images/WISD.png?raw=True
   link: https://zoey-wisd.streamlit.app/
   description: Created for the 2024 WISD Hackathon
+
+- name: Py2048-ML v2
+  image: https://github.com/ZoeyZwee/zoeyzwee.github.io/blob/master/assets/images/py2048v2.png?raw=True
+  link: https://github.com/ZoeyZwee/Py2048-ML-v2
+  description: Playing 2048 with Deep RL
