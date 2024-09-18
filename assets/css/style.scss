@@ -62,9 +62,11 @@ a.navbar-item.is-active {
     }
 }
 .title {
+    font-size: calc(150% + 3vw);
     margin: auto 0.75rem!important;
 }
 .subtitle {
+    font-size: calc(80% + 0.5vw);
     letter-spacing: 0.25rem;
 }
 
