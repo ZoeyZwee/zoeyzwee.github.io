@@ -8,12 +8,13 @@ baseurl: ""
 
 # Title of the Site
 title: Zoey Drassinower
+subtitle: Data Science and Machine Learning
 # Description of the Site
-description: Data Science and Machine Learning
+description: Zoey Drassinower's Data Science and Machine Learning Portfolio
 # URL of Image of the Site
 site-image: 
 # Keywords of the Site
-site-keywords: Data Science, Machine Learning, Portfolio, Zoey Drassinower, Drassinower
+site-keywords: Zoey Drassinower, Drassinower, Zoey, Data Science, Machine Learning, Portfolio
 # URL for the Image of custom Favicon
 favicon-url: 
 
