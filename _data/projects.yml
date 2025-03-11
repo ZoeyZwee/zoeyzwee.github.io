@@ -1,6 +1,6 @@
 - name: Baseball Data Dashboard
   image: https://github.com/ZoeyZwee/zoeyzwee.github.io/blob/master/assets/images/WISD.png?raw=True
-  link: https://zoey-wisd.streamlit.app/
+  link: https://zoeyd.ca/blog/wisd-2024
   description: Created for the 2024 WISD Hackathon
 
 - name: Py2048-ML v2
